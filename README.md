@@ -29,7 +29,7 @@ The project deliverables are organized as follows:
 │   ├── roc_curve.png                         # Evaluation ROC curve and ROC-AUC score
 │   └── feature_importance.png                # Feature importances based on model coefficients
 ├── README.md                                 # Project repository overview (this file)
-└── Report.pdf                                # Comprehensive, formal technical report
+
 ```
 
 ---
